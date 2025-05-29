@@ -12,7 +12,6 @@
 * [🔎 Audits](mamo/audits.md)
 * [🔗 Important Links](mamo/important-links.md)
 * [🏗️ Contributors](mamo/contributors.md)
-* [test](mamo/test.md)
 
 ## Legal
 
