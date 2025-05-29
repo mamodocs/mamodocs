@@ -17,6 +17,6 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## Group 1
+## Group 123
 
-* [12](group-1/12.md)
+* [12](group-123/12.md)
