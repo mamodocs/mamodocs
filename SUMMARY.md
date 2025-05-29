@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+  * [Page 1](readme/page-1.md)
 
 ## Getting Started
 
@@ -15,3 +16,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## Group 1
+
+* [12](group-1/12.md)
