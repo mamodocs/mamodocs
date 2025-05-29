@@ -1,22 +1,19 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [Page 1](readme/page-1.md)
+## Mamo
 
-## Getting Started
+* [👋 Introducing Mamo](README.md)
+* [🤝 The Mamo Difference](mamo/the-mamo-difference.md)
+* [👥 Who Mamo Helps](mamo/who-mamo-helps.md)
+* [📖 The Story Behind Mamo](mamo/the-story-behind-mamo.md)
+* [🛠️ How Mamo Works](mamo/how-mamo-works.md)
+* [🛡️ How Mamo Keeps You Safe](mamo/how-mamo-keeps-you-safe.md)
+* [🌱 MAMO](mamo/mamo.md)
+* [🔎 Audits](mamo/audits.md)
+* [🔗 Important Links](mamo/important-links.md)
+* [🏗️ Contributors](mamo/contributors.md)
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+## Legal
 
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-
-## Group 123
-
-* [12](group-123/12.md)
+* [Terms of Service](legal/terms-of-service.md)
+* [Privacy Policy](legal/privacy-policy.md)

@@ -1,29 +1,36 @@
----
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# 👋 Introducing Mamo
 
-# Welcome
+<figure><img src=".gitbook/assets/Twitter post - 1.png" alt=""><figcaption></figcaption></figure>
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## Your companion for quiet growth
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Mamo is your financial companion for growing wealth — without the noise, the jargon, or the complexity.
 
-### Jump right in
+We designed it for people who want their money working smarter, not harder. For those who believe building wealth shouldn't require becoming a financial expert first.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+It works in the background while you get on with life. Because you've got enough on your plate.
+
+## Built for people, not traders
+
+Most financial tools demand your constant attention. They expect you to make all the decisions, track every market movement, and somehow find time to become an expert along the way.
+
+Mamo takes a different path.
+
+It creates smart, human-first routines that help your money grow steadily. Not through flashy promises or market gambles, but through quiet, intelligent habits that compound over time.
+
+You stay in control, always. But without the overwhelming complexity.
+
+## What Mamo does
+
+* Creates calm, steady progress through thoughtful, risk-aware strategies
+* Explains everything in plain language, helping you learn as you earn
+* Keeps you in control. Add, pause, withdraw anytime. No lockups. No confusing rules.
+* Works quietly alongside your life, not demanding center stage
+
+## Why Mamo exists
+
+We believe in smart growth that's accessible to everyone.&#x20;
+
+Mamo was built for the many, not the few. For anyone who wants to build wealth one habit at a time, without turning it into another job. It's not about chasing the next big thing. It's about steady wins, consistent habits, and the power of compounding for everyone.
+
+Your money's always a message away. Just ask Mamo.
