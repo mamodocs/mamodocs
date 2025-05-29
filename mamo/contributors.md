@@ -19,3 +19,5 @@ These contributors bring Mamo to life:
 * [**BProfiro**](https://x.com/bprofiro)
 
 Mamo is supported by a community of engaged builders, designers, moderators, and advisors who actively shape the future of Mamo.
+
+.
