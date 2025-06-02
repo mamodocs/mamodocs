@@ -20,7 +20,7 @@ We didn't just add security as an afterthought. It's woven into everything.
 
 **Always accessible:** Your money doesn't depend on us being online. If Mamo ever goes down, you still have direct access to your full balance. No middlemen. No waiting. Just you and your funds.
 
-**Independently verified:** Trust comes from proof, not promises. That's why Mamo has been independently audited by leading security firms, [**Certora**](https://www.certora.com/) and [**Halborn Security**](https://www.halborn.com/). We've also partnered with [**Code4rena**](https://code4rena.com/) for a bug bounty program, offering up to $250,000 for responsibly disclosed issues. Learn more at [**Audits**](broken-reference)**.**
+**Independently verified:** Trust comes from proof, not promises. That's why Mamo has been independently audited by leading security firms, [**Certora**](https://www.certora.com/) and [**Halborn Security**](https://www.halborn.com/). We've also partnered with [**Code4rena**](https://code4rena.com/) for a bug bounty program, offering up to $250,000 for responsibly disclosed issues. Learn more at [**Audits**](audits.md).
 
 **Nothing happens without you:** No silent updates. No surprise changes. Every adjustment needs your thumbs up first.
 
