@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/Twitter post - 1.png" alt=""><figcaption></figcaption></figure>
 
-## Your companion for quiet growth.....!
+## Your companion for quiet growth
 
 Mamo is your financial companion for growing wealth — without the noise, the jargon, or the complexity.
 

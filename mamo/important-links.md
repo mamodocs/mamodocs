@@ -10,4 +10,4 @@
 
 ### [**Mirror**](https://mirror.xyz/mamoagent.eth)
 
-### [**Github - Mamo Contracts**](https://github.com/moonwell-fi/mamo-contracts)
+### [**Github - Mamo Contracts**](https://github.com/moonwell-fi/mamo-contracts)**.**
