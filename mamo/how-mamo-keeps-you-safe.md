@@ -49,7 +49,7 @@ All investing carries risk. We believe in being upfront about it.
 * You choose how much to deposit
 * You can withdraw whenever you need
 * You get clear information, not finance speak
-* **Variable APY.** Interest rates move with borrower demand. Proud of a 12 % rate today? It might read 8% next week, tomorrow or even in the next hour. Mamo keeps you earning the best rate available, but the number _can_ and will change.
+* **Variable APY.** Interest rates move with borrower demand. Proud of a 12% rate today? It might read 8% next week, tomorrow or even in the next hour. Mamo keeps you earning the best rate available, but the number _can_ and will change.
 * **Smart contract risk.** Independent audits and bounties reduce the chance of bugs, but no code base is perfect.
 * **Protocol risk.** Mamo routes funds to [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/) on [**Base**](https://www.base.org/). These platforms have long track records, but they aren’t backed by government insurance.
 
