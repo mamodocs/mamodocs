@@ -17,3 +17,7 @@
 
 * [🖊️ Terms of Service](legal/terms-of-service.md)
 * [👁️ Privacy Policy](legal/privacy-policy.md)
+
+## Technical
+
+* [Contract Addresses](technical/contract-addresses.md)
