@@ -5,7 +5,7 @@ Mamo’s approach is like putting your savings on **autopilot**. When you deposi
 {% hint style="info" %}
 What is USDC?
 
-[USDC](https://www.circle.com/usdc) (USD Coin) is a stablecoin that aims to maintain a 1:1 peg with the US dollar. USDC is issued by [Circle](https://www.circle.com/usdc) and is fully backed by US dollars or US dollar equivalents, which include cash and short-dated US government obligations.
+[**USDC**](https://www.circle.com/usdc) (USD Coin) is a stablecoin that aims to maintain a 1:1 peg with the US dollar. USDC is issued by [**Circle**](https://www.circle.com/usdc) and is fully backed by US dollars or US dollar equivalents, which include cash and short-dated US government obligations.
 {% endhint %}
 
 On top of the interest from borrowers, there are often **extra rewards** given by the platforms to encourage people to lend. These are usually in the form of the platform’s own tokens or related incentives. For instance, Moonwell gives out its **WELL** token to USDC lenders as a bonus reward.&#x20;
