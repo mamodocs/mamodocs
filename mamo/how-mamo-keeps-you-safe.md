@@ -2,55 +2,45 @@
 
 ## **Your money, your control. Our promise.**
 
-Simple on the surface, secure at the core. That's Mamo. While you focus on building wealth one habit at a time, we focus on keeping your money protected — with smart, human-first routines that put you in charge, always.
+Simple on the surface, secure at the core — that's Mamo. Mamo was designed so that **security never gets in the way of that calm growth**. While you practise good financial habits — regular deposits and long-term thinking, we protect every dollar with routines that keep **you** in charge from beginning to end.
 
 There are no confusing rules, just thoughtful security that works quietly in the background.
 
-## 🛡️ Your money, always yours
+## 🛡️ Self-custody, no exceptions
 
-Here's something different about Mamo: your money never leaves your hands.
+When you deposit USDC into Mamo, the funds don’t slide into a giant communal pool or a spooky black box. They flow straight into a **personal smart-contract vault** that belongs solely to your wallet. Picture a safe-deposit box at the bank where _only your key fits_.
 
-When you deposit, your funds flow into a personal smart contract — think of it as your own secure vault, connected directly to your wallet. Only you hold the keys. Only you approve changes.
+* **Mamo can guide your money, but never grab it.** Every move — deposit, withdrawal, strategy switch needs _your_ signature.
+* **Always accessible:** Your money doesn't depend on Mamo being online. If Mamo ever goes down, you still have direct access to your funds using any standard wallet or block explorer interface.
 
-Mamo helps your money grow, but can't touch a single dollar without your say so. **You're in control, always.**
+There is **no scenario** where Mamo “holds” your funds. We build the rails; you steer the train.
 
 ## 🔐 Security by design
 
-We didn't just add security as an afterthought. It's woven into everything.
+We didn't just tack on security at the end, it's woven into everything.
 
-**Always accessible:** Your money doesn't depend on us being online. If Mamo ever goes down, you still have direct access to your full balance. No middlemen. No waiting. Just you and your funds.
+| Layer of protection       | Why it matters to you                                                                                                                                                                                                                                |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Independent audits**    | Trust comes from proof, not promises. That's why Mamo has been independently audited by leading security firms, [**Certora**](https://www.certora.com/) and [**Halborn Security**](https://www.halborn.com/). Learn more at [**Audits**](audits.md). |
+| **$250K bug bounty**      | Our Code4rena bug bounty program pays white-hat hackers real money to poke holes before bad actors can. We offer up to $250K for responsibly disclosed issues. Continuous incentives = continuous scrutiny = continuous safety.                      |
+| **Permissioned upgrades** | No silent contract migrations. Every upgrade waits patiently for _your_ approval. If you ignore the prompt, nothing changes — period. No surprises.                                                                                                  |
+| **Fail-safe access**      | Your vault is a transparent smart contract on the Base network. If Mamo vanished tomorrow, you’d still control 100 % of your balance with any wallet that speaks Ethereum.                                                                           |
 
-**Independently verified:** Trust comes from proof, not promises. That's why Mamo has been independently audited by leading security firms, [**Certora**](https://www.certora.com/) and [**Halborn Security**](https://www.halborn.com/). We've also partnered with [**Code4rena**](https://code4rena.com/) for a bug bounty program, offering up to $250,000 for responsibly disclosed issues. Learn more at [**Audits**](audits.md).
+## 👀 Transparency
 
-**Nothing happens without you:** No silent updates. No surprise changes. Every adjustment needs your thumbs up first.
-
-## 👀 Complete transparency
-
-**You've got enough on your plate.** We keep things visible and simple.
+Money gets stressful when it hides behind jargon and blurry fees. We like to keep things simple.
 
 * No hidden fees lurking in fine print
 * No lockups keeping your money hostage
 * No surprises disrupting your progress
 
-Watch your portfolio grow in real-time. See every deposit, every earning, every move. Learn as you earn — without the spreadsheets.
+## 🧠 Smart protection for your earnings
 
-## 🔄 Updates that respect your choice
+Earning yield is great; keeping it is even better. Every time Mamo converts bonus tokens (WELL, MORPHO, etc) back into USDC, it considers three layers of safety:
 
-When we build something better, you decide if you want it.
-
-* Clear notifications when improvements are ready
-* Only tested, trusted updates offered
-* Nothing changes until you give the green light
-
-Your financial companion evolves with your permission, not without it.
-
-## 🔄 Smart protection for your earnings
-
-When converting rewards back into your strategy (like turning earnings into more USDC), every step includes thoughtful safeguards:
-
-**Fair-value trades:** We set smart limits. If prices swing too far, we wait for better conditions. No rushed decisions, just calm, steady progress.
-
-**Trusted partners:** Using tools like CowSwap and Chainlink means your trades are protected from manipulation and verified for fairness. Complex tech, simple outcome — you get what you deserve.
+1. [**CowSwap**](https://swap.cow.fi/) **batch auctions** prevent front-running and “sandwich” attacks&#x20;
+2. [**Chainlink**](https://chain.link/) **oracles** are independent price feeds that put an automatic brake on any swap the moment market prices deviates from what it should be
+3. **Tight slippage guardrails.** Mamo sets strict limits so you never lose value during a volatile spike. If conditions don't make sense, we wait until they are.
 
 ## ⚖️ Honest about risk
 
@@ -59,17 +49,8 @@ All investing carries risk. We believe in being upfront about it.
 * You choose how much to deposit
 * You can withdraw whenever you need
 * You get clear information, not finance speak
+* **Variable APY.** Interest rates move with borrower demand. Proud of a 12 % rate today? It might read 8% next week, tomorrow or even in the next hour. Mamo keeps you earning the best rate available, but the number _can_ and will change.
+* **Smart contract risk.** Independent audits and bounties reduce the chance of bugs, but no code base is perfect.
+* **Protocol risk.** Mamo routes funds to [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/) on [**Base**](https://www.base.org/). These platforms have long track records, but they aren’t backed by government insurance.
 
-Mamo is built for steady wins, not wild rides. A system designed for the many, not the few.
-
-***
-
-## What this means for you
-
-Peace of mind through simplicity:
-
-✅ **No custody games:** your funds stay in your wallet\
-✅ **No backdoor access:** every action needs your approval\
-✅ **No mysterious moves:** complete visibility into your growth
-
-We handle the complexity. You keep the control. Your money grows quietly while you focus on life.
+Our job is to **minimise** risk, **communicate** it honestly, and give you full control to step in or out whenever you wish.

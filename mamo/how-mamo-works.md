@@ -1,81 +1,13 @@
 # 🛠️ How Mamo Works
 
-## Thoughtful design. Quiet intelligence.
+Mamo feels simple to use, that's by design. Behind this simplicity is a system that protects your funds, makes smart decisions, and keeps you in control, always.
 
-Mamo feels simple to use — that's by design. Behind this simplicity lies something thoughtful: a companion that protects your funds, makes smart decisions, and keeps you in control, always.
+Mamo is designed to keep your money safe, productive, and always yours. We handle the complexity while you stay informed, watching your money grow through steady wins, not market swings.
 
-Here's how your money grows and why it remains secure every step of the way.
-
-<figure><img src="../.gitbook/assets/mamo-contracts.drawio (1).png" alt=""><figcaption></figcaption></figure>
-
-## Your financial companion, explained
-
-When you start with Mamo, your money stays yours. No common pools. No third-party control.
-
-We create a **personal Mamo account** just for you that connects to trusted platforms like [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/). It uses smart tools to ensure fair trades and steady progress, handling the complexity while you maintain control.
-
-## How your money grows
-
-### 1. Your personal account begins
-
-Sign up, and Mamo creates your own dedicated account. Think of it as your financial companion that is connected to your wallet, accessible only by you.
-
-* Only you can add, pause, or withdraw
-* Direct connection to your wallet means you're always in charge
-* Changes happen only when you say so
-
-This is where your quiet growth begins.
-
-### 2. Your money gets to work
-
-With your account ready, you can start building wealth through what we call strategies. One for each asset — like USDC — where Mamo thoughtfully allocates your funds to platforms chosen for their track record and reliability.
-
-Mamo manages the details. You keep the control.
-
-### 3. Returns accumulate steadily
-
-As your money works, Mamo quietly collects your rewards and directs them back to your strategy. You see everything happening with no manual tracking or guesswork involved.
-
-Calm, steady progress you can watch.
-
-### 4. Smart conversion, fair value
-
-To help your earnings compound, Mamo converts rewards back into your chosen asset (more USDC if that's your strategy), but only when conditions make sense.
-
-* Secure, fair-value trades through **CowSwap**
-* Price verification via **Chainlink** oracles to ensure fairness
-* No surprises. No unnecessary risks.
-
-### 5. Compound growth, simplified
-
-Your converted rewards flow back into your strategy automatically. Each cycle builds on the last, creating the kind of compounding that used to require spreadsheets and expertise.
-
-Now it just works, in the background.
-
-### 6. Your money, always accessible
-
-Need your funds? Just withdraw.
-
-* Assets and earnings return to your wallet instantly
-* No lockups or waiting periods
-* Even if Mamo goes offline, you maintain direct access
-
-**Add, pause, withdraw — anytime.** No confusing rules.
-
-### 7. Updates with your permission
-
-Sometimes we'll suggest improvements to help your money work better. But nothing changes without you.
-
-* Clear notifications when updates are available
-* You decide what's right for you
-* Only tested, verified improvements offered
-
-Mamo evolves with you, not without you.
+<table><thead><tr><th width="237.32421875">Step</th><th>What happens</th><th>Why it matters</th></tr></thead><tbody><tr><td>1. Mamo USDC account creation</td><td>A dedicated smart contract is spun up and linked to <strong>your</strong> wallet. </td><td>This is where you will deposit USDC. Direct connection to your wallet means you're always in control. Mamo never takes custody of your funds. Only you can move funds.</td></tr><tr><td>2. Funds get to work</td><td>Mamo allocates USDC to either the <a href="https://moonwell.fi/markets/supply/base/usdc"><strong>Moonwell USDC Core Market</strong></a> or <a href="https://moonwell.fi/vaults/deposit/base/mwusdc"><strong>Moonwell Flagship USDC Vault</strong></a> on <a href="https://www.base.org/"><strong>Base</strong></a>.</td><td>Mamo will allocate your funds to the one currently offering the best interest rate.</td></tr><tr><td>3. Returns roll in</td><td>You can interest paid by borrowers of either Moonwell or Morpho (in USDC) + earn additional tokens (WELL, MORPHO).</td><td>Multiple yield streams without extra effort. Mamo quietly collects all earnings.</td></tr><tr><td>4. Smart conversion</td><td>When rewards reach ≈ $5, Mamo swaps them to USDC via <strong>CowSwap</strong> with prices double-checked by <strong>Chainlink oracles</strong> — but only when conditions make sense.</td><td>Fair pricing and no dust-level rewards stuck in your account. No surprises. No unnecessary risks.</td></tr><tr><td>5. Auto-compounding</td><td>Accrued interest and all reward tokens earned are folded back into your Mamo USDC balance.</td><td>Interest on top of interest — no manual intervention, no spreadsheets.</td></tr><tr><td>6. Always accessible</td><td>Need your funds? Just withdraw. Withdrawals hit your wallet instantly; even if Mamo is offline, you still control the smart contract.</td><td>No custody risk, no waiting periods. <strong>Add, pause, withdraw — anytime.</strong> No confusing rules.</td></tr><tr><td>7. Updates with permission</td><td>If Mamo ships an upgrade, you will get a clear prompt and must agree before anything changes.</td><td>Zero “surprise” migrations; you stay in charge. You decide what's right for you.</td></tr></tbody></table>
 
 ***
 
-### What this means for you
+## Mamo's infrastructure, visualized
 
-**You've got enough on your plate.** Mamo keeps wealth-building simple.
-
-Your money stays safe, productive, and yours. We handle the complexity while you stay informed, watching your portfolio grow through steady wins, not market swings.
+<figure><img src="../.gitbook/assets/mamo-contracts.drawio (1).png" alt=""><figcaption></figcaption></figure>

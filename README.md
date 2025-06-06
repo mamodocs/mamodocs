@@ -4,11 +4,11 @@
 
 ## Your companion for quiet growth
 
-Mamo is your financial companion for growing wealth — without the noise, the jargon, or the complexity.
+Mamo is your personal finance companion that helps you track, grow, and understand your money — without the noise, jargon, and complexity.
 
-We designed it for people who want their money working smarter, not harder. For those who believe building wealth shouldn't require becoming a financial expert first.
+We designed Mamo for people who want their money working smarter, not harder. For those who believe building wealth shouldn't require becoming a financial expert first.
 
-It works in the background while you get on with life. Because you've got enough on your plate.
+You've got enough on your plate. That's why Mamo handles the heavy lifting, automatically allocating your money across trusted platforms to capture the best available returns while keeping you in full control, always.
 
 ## Built for people, not traders
 
