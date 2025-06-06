@@ -4,7 +4,7 @@
 
 ## Your companion for quiet growth
 
-Mamo is your personal finance companion that helps you track, grow, and understand your money — without the noise, jargon, and complexity.
+Mamo is your personal finance companion that helps track, grow, and understand your money — without the noise, jargon, and complexity.
 
 We designed Mamo for people who want their money working smarter, not harder. For those who believe building wealth shouldn't require becoming a financial expert first.
 
