@@ -39,8 +39,8 @@ Money gets stressful when it hides behind jargon and blurry fees. We like to kee
 Earning yield is great; keeping it is even better. Every time Mamo converts bonus tokens (WELL, MORPHO, etc) back into USDC, it considers three layers of safety:
 
 1. [**CowSwap**](https://swap.cow.fi/) **batch auctions** prevent front-running and “sandwich” attacks&#x20;
-2. [**Chainlink**](https://chain.link/) **oracles** are independent price feeds that put an automatic brake on any swap the moment market prices deviate from what it should be
-3. **Tight slippage guardrails.** Mamo sets strict limits so you never lose value during a volatile spike. If conditions don't make sense, we wait until they are.
+2. [**Chainlink**](https://chain.link/) **oracles** are independent price feeds that put an automatic brake on any swap the moment market prices deviate from what they should be
+3. **Tight slippage guardrails.** Mamo sets strict limits so you never lose value during a volatile spike. If conditions don't make sense, we wait until they are to swap your rewards into more USDC.
 
 ## ⚖️ Honest about risk
 
