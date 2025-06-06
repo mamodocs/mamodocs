@@ -20,4 +20,4 @@
 
 ## Technical
 
-* [Contract Addresses](technical/contract-addresses.md)
+* [📜 Contract Addresses](technical/contract-addresses.md)
