@@ -8,7 +8,7 @@ While the number may change, **Mamo makes sure that you're always earning the be
 
 **Think of it like this:** when more people want to borrow USDC for trading or liquidity needs, lenders can charge higher rates. When there's plenty of USDC available and fewer borrowers, rates adjust down. It's simple **supply and demand** in action — the same forces that drive all healthy markets.
 
-Your earnings reflect real economic activity happening across these lending platforms. Busier trading periods? Higher rates. Quieter markets? Rates settle lower. What stays constant is Mamo working behind the scenes to ensure your funds are always in the right place at the right time. You get the transparency without the complexity, the optimization without the work.
+Your earnings reflect real economic activity happening across the lending platform utilized by Mamo. Busier trading periods? Higher rates. Quieter markets? Rates settle lower. What stays constant is Mamo working behind the scenes to ensure your funds are always in the right place at the right time. You get the transparency without the complexity, the optimization without the work.
 
 ### **Compounding for everyone, automatically.**
 
