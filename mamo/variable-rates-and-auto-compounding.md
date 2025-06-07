@@ -4,7 +4,7 @@
 
 The returns you earn with Mamo are variable — your annual percentage yield (APY) shifts with market conditions and will change over time. One day it might be 10%, another it could be 8% or 12%.
 
-**Here's what matters:** while the number changes, **you're always earning the best rate available.** Mamo quietly monitors the top lending opportunities across [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/) and moves your funds to wherever they'll work hardest. No spreadsheets, no manual tracking needed, and you stay in control, always.
+While the number may change, **Mamo makes sure that you're always earning the best rate available.** Mamo quietly monitors the top lending opportunities across [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/) and moves your funds to wherever they'll work hardest. No spreadsheets, no manual tracking needed, and you stay in control, always.
 
 **Think of it like this:** when more people want to borrow USDC for trading or liquidity needs, lenders can charge higher rates. When there's plenty of USDC available and fewer borrowers, rates adjust down. It's simple **supply and demand** in action — the same forces that drive all healthy markets.
 
