@@ -20,6 +20,3 @@ Over weeks and months, this auto-compounding creates meaningful acceleration.&#x
 A $1,000 balance earning 10% annually becomes $1,100 after one year with simple interest. With daily compounding, it becomes $1,105. That extra $5 might seem small, but scale it up across larger balances and longer timeframes, and the difference becomes substantial.
 {% endhint %}
 
-The beauty of Mamo is that it removes the need for you to micromanage anything. You don’t have to claim rewards, move funds, or worry about changing interest rates. Cnce you deposit, you can relax knowing that Mamo will maximize your earnings and compound them, automatically.&#x20;
-
-Add funds when you can. Your next paycheck, a bonus, money from a side project – any amount works. Then, pause when life gets expensive. Withdraw what you need, when you need it. No lockups, no confusing rules. Whether you're starting with $50 or $5,000, the same smart allocation and auto-compounding benefits apply. You've got enough on your plate without becoming a full-time financial expert and researcher. Mamo handles the complexity so you can focus on the progress. 🌱
