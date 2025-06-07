@@ -1,6 +1,8 @@
 # 📊 How Mamo Earns You Money
 
-Mamo’s approach is like putting your savings on **autopilot**. When you deposit USDC into Mamo, it doesn’t just sit idle. Instead, Mamo allocates your USDC into decentralized lending platforms where others can borrow it. Borrowers pay **interest** (also called borrower fees) for using your USDC, and that interest becomes your earnings. This works a bit like a traditional bank savings account, but in the crypto world it’s through decentralized protocols. For example, [**Moonwell**](https://moonwell.fi/) – one of the platforms Mamo uses – lets you lend USDC and start earning a **variable interest rate** from borrowers.
+Your money shouldn't just sit there. With Mamo, it quietly grows while you focus on everything else you've got on your plate.
+
+When you add USDC to Mamo, we put it to work through decentralized lending. Your USDC becomes available for others to borrow, and borrowers pay interest for that privilege. That interest becomes your earnings — steady, consistent growth that compounds over time.
 
 {% hint style="info" %}
 What is USDC?
@@ -8,19 +10,15 @@ What is USDC?
 [**USDC**](https://www.circle.com/usdc) (USD Coin) is a stablecoin that aims to maintain a 1:1 peg with the US dollar. USDC is issued by [**Circle**](https://www.circle.com/usdc) and is fully backed by US dollars or US dollar equivalents, which include cash and short-dated US government obligations.
 {% endhint %}
 
-On top of the interest from borrowers, there are often **extra rewards** given by the platforms to encourage people to lend. These are usually in the form of the platform’s own tokens or related incentives. For instance, Moonwell gives out its **WELL** token to USDC lenders as a bonus reward.&#x20;
+Beyond borrower interest, the platforms we use often reward lenders with their own tokens – like WELL tokens from [**Moonwell**](https://moonwell.fi/) or MORPHO tokens from [**Morpho**](https://morpho.org/). More tokens, more complexity, right?
 
-{% hint style="info" %}
-Let's say the Moonwell USDC Core Market had a base interest (from borrowers) of  10% APY (annual percentage yield) with an additional 2% APY in WELL token rewards. This means if you deposited USDC, you’d earn the normal interest **plus** extra value from those WELL tokens (12%).&#x20;
+Wrong.
 
-Similarly, the Moonwell USDC Vault can provide its own rewards (like **MORPHO** tokens, and sometimes other tokens) to boost your earnings.
-{% endhint %}
+Mamo converts all of those reward tokens into USDC for you automatically. No spreadsheets, no crypto speak, no juggling different assets. You earn the rewards, we handle the conversion, and your USDC balance simply grows. It's compounding for everyone, without the complexity.
 
-Here’s the best part: **Mamo converts all those reward tokens into USDC for you automatically**. You don’t have to worry about holding or selling WELL, MORPHO, or any other token you earn. Mamo will periodically claim those rewards on your behalf (after you have earned at least $5 worth of rewards), then swap them into more USDC and add it to your balance. This effectively increases your USDC holdings — it’s like getting a bonus and immediately depositing it back to earn even more. In other words, your earnings are **auto-compounded** (your interest earns interest!), growing your balance over time without you lifting a finger.
+## Where does Mamo put my USDC to work?
 
-## Where exactly does Mamo put my USDC?
-
-| Venue                                                                                                                                                                                                                                          |
+| Platform                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="../.gitbook/assets/image.png" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **–** [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) **(on** [**Base**](https://www.base.org/)**)**                |
 | <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **-** [**Moonwell Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc) **(on** [**Base**](https://www.base.org/)**)** |
