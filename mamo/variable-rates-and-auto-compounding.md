@@ -2,7 +2,7 @@
 
 ## **Your rates will move. That’s how it should be.**
 
-The returns you earn with Mamo are variable — your annual percentage yield (APY) shifts with market conditions and will change over time. One day it might be 10%, another it could be 8% or 12%.
+The returns you earn with Mamo are **variable** — your annual percentage yield (APY) shifts with market conditions and will change over time. One day it might be 10%, another it could be 8% or 12%.
 
 While the number may change, **Mamo makes sure that you're always earning the best rate available.** Mamo quietly monitors the top lending opportunities across [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/) and moves your funds to wherever they'll work hardest. No spreadsheets, no manual tracking needed, and you stay in control, always.
 
