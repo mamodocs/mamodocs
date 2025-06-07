@@ -1,20 +1,20 @@
 # 📈 Variable Rates and Auto-Compounding
 
-## **Your rates will move. That's how it should be.**
+## **Your rates will move. That’s how it should be.**
 
-The returns you earn with Mamo are variable — meaning your annual percentage yield (APY) shifts with market conditions. One day it's 10%, another it's 8% or 12%. This isn't a bug, it's how decentralized lending works. More demand for borrowing USDC on Moonwell or Morpho (platforms Mamo uses to allocate funds to)? Rates go up. Less demand? They adjust down.
+The returns you earn with Mamo are _**variable**_ — your annual percentage yield (**APY**) shifts with market conditions and will change over time. **More demand for borrowing USDC? Rates go up. Less demand? They adjust down.**
 
-Think of it like this: when more people want to borrow USDC, lenders can charge higher rates. When there's plenty of USDC available and fewer borrowers, rates adjust down. It's supply and demand in action, and these shifts happen naturally across the lending platforms Mamo uses.
+**Think of it like this:** when more people want to borrow USDC, **lenders can charge higher rates**. When there’s plenty of USDC available and fewer borrowers, **rates adjust down**. It’s simple **supply and demand** in action across the lending platforms Mamo uses ([**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/)).
 
-**Here's what matters:** while the number changes, you're always earning the best rate available. Mamo quietly monitors the best lending opportunities and moves your funds to wherever they'll work hardest. No spreadsheets on your end. No tracking multiple platforms. You stay in control, always — just with less work on your plate.
+**Here’s what matters:** while the number changes, **you’re always earning the best rate available.** Mamo quietly monitors the top lending opportunities and **moves your funds to wherever they’ll work hardest** — no spreadsheets, no manual tracking needed, and **you stay in control, always.**
 
 ### **Understanding what drives your rates.**
 
-Your earnings depend on real market activity. When borrowers on Moonwell or Morpho (platforms utilized by Mamo) need USDC for trading or liquidity, rates climb. During quieter periods, they settle lower. Seasonal patterns matter too – certain times of year see more DeFi activity, which typically means better rates for lenders like you.
+**Your earnings depend on real market activity.** When borrowers on Moonwell or Morpho (platforms utilized by Mamo) need USDC for trading or liquidity, rates climb. During quieter periods, they settle lower. Seasonal patterns matter too — certain times of year see more activity, which typically means better rates for you.
 
 Mamo gives you transparency without drowning you in data. You'll see your current rate clearly displayed, so you understand what's happening with your money. Learn as you earn, with context that actually helps rather than overwhelming you with crypto speak.
 
-**The key insight:** variable doesn't mean unpredictable. These are market-driven changes reflecting real economic activity, not random fluctuations. Mamo helps you benefit from this reality instead of fighting it.
+**The key insight:** _Variable doesn’t mean unpredictable._ These shifts reflect **real economic activity**, not random fluctuations, and **Mamo turns them to your advantage.**
 
 ### **Compounding for everyone, automatically.**
 
