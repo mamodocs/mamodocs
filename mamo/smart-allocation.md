@@ -1,6 +1,6 @@
 # 🤖 Smart Allocation
 
-## **Smart Allocation: Your Money, Always in the Right Place**
+## **Your money, always in the right place**
 
 Mamo watches two places where your USDC can earn: [**Moonwell**](https://moonwell.fi/)'s [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) and [**USDC Flagship Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc). Interest rates shift constantly based on supply and demand. Instead of you tracking these changes, Mamo handles the moves for you.
 
