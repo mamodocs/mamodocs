@@ -2,7 +2,7 @@
 
 Your money shouldn't just sit there. With Mamo, it quietly grows while you focus on everything else you've got on your plate. We put your USDC to work through smart, steady habits that compound over time.
 
-When you add USDC to Mamo, we put it to work through decentralized lending. Your USDC becomes available for others to borrow, and borrowers pay interest for that privilege. That interest becomes your earnings — steady, consistent growth that compounds over time.
+When you add USDC to Mamo, we put it to work on [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/), decentralized lending platforms on [**Base**](https://www.base.org/).. Your USDC becomes available for others to borrow on these platforms, and borrowers pay interest for that privilege. That interest becomes your earnings — steady, consistent growth that compounds over time.
 
 {% hint style="info" %}
 What is USDC?
@@ -10,7 +10,7 @@ What is USDC?
 [**USDC**](https://www.circle.com/usdc) (USD Coin) is a stablecoin that aims to maintain a 1:1 peg with the US dollar. USDC is issued by [**Circle**](https://www.circle.com/usdc) and is fully backed by US dollars or US dollar equivalents, which include cash and short-dated US government obligations.
 {% endhint %}
 
-Beyond borrower interest, the platforms that Mamo allocates to will often reward lenders with bonus token — like WELL tokens from [**Moonwell**](https://moonwell.fi/) or MORPHO tokens from [**Morpho**](https://morpho.org/). More tokens, more complexity, right? Wrong. Mamo converts all of those reward tokens into USDC for you automatically. No spreadsheets, no crypto speak, no juggling different assets. You earn the rewards, we handle the conversion, and your USDC balance simply grows. It's compounding for everyone, without the complexity.
+Beyond borrower interest, you earn additional reward tokens as a lender on those platforms, WELL tokens from [**Moonwell**](https://moonwell.fi/) or MORPHO tokens from [**Morpho**](https://morpho.org/). More tokens, more complexity, right? Wrong. Mamo converts all of these reward tokens into USDC for you automatically. No spreadsheets or juggling different assets. You earn the rewards, we handle the conversion, and your USDC balance simply grows. It's compounding for everyone, without the complexity.
 
 ## Where your money gets to work
 
