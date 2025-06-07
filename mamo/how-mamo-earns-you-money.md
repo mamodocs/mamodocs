@@ -25,7 +25,7 @@ Here’s the best part: **Mamo converts all those reward tokens into USDC for yo
 | <img src="../.gitbook/assets/image.png" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **–** [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) **(on** [**Base**](https://www.base.org/)**)**                |
 | <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **-** [**Moonwell Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc) **(on** [**Base**](https://www.base.org/)**)** |
 
-### Moonwell: Mamo’s lending engine
+### 1. Moonwell: Moonwell USDC Core Market
 
 To understand where Mamo puts your money, let’s first introduce [**Moonwell**](https://moonwell.fi/). Moonwell is a decentralized lending and borrowing protocol available on networks like [**Base**](https://www.base.org/) **and** [**OP Mainnet**](https://www.optimism.io/)**.** You can think of Moonwell as a crypto equivalent of a lending bank or money market. It allows people to deposit assets (like USDC) into a pool that others can borrow from. If you lend your USDC on Moonwell, you earn interest because borrowers pay fees to use your funds. In fact, Moonwell makes it easy for anyone (even newcomers) to lend assets in these pools and **start earning a variable interest rate** on their digital assets.
 
@@ -37,7 +37,7 @@ Moonwell also sweetens the deal for lenders by offering **reward tokens**. Speci
 
 **Why does Mamo use Moonwell?** Because Moonwell provides a reliable, decentralized infrastructure for earning interest, and it has those extra reward incentives. It’s an engine that’s constantly generating yield from borrowers. Mamo essentially taps into Moonwell for you. By using Moonwell, Mamo ensures that your money is always working – safely and productively. And thanks to Mamo converting the WELL rewards to USDC, you don’t even have to understand or manage these reward tokens; you just reap the benefits as part of your growing USDC balance.
 
-### Morpho: Moonwell Flagship USDC Vault
+### 2. Morpho: Moonwell Flagship USDC Vault
 
 Next, let’s talk about [**Morpho**](https://morpho.org/) and the [**Moonwell** **Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc) that Mamo can use. If Moonwell is like our “engine”, then Morpho is a special **turbocharger** for that engine. Morpho, like Moonwell, is a decentralized lending protocol that matches lenders with borrowers to earn yield.&#x20;
 
