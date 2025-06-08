@@ -2,7 +2,7 @@
 
 Your money shouldn't just sit there idle. With Mamo, it quietly **grows in the background**, while you stay focused on everything else on your plate. We put your **USDC** to work through **smart, steady habits** that **compound** over time.
 
-When you add USDC to Mamo, we allocate it across [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/), two trusted decentralized lending platforms on [**Base**](https://www.base.org/). Your USDC becomes available for others to borrow on these platforms, and then in return, borrowers pay interest for that privilege. That interest becomes your earnings — steady, consistent growth that compounds quietly in the background.
+When you add USDC to Mamo, it is allocated to [**Moonwell**](https://moonwell.fi/) and [**Morpho**](https://morpho.org/), two trusted decentralized lending platforms on [**Base**](https://www.base.org/). Your USDC becomes available for others to borrow on these platforms, and then in return, borrowers pay interest for that privilege. That interest becomes your earnings — steady, consistent growth that compounds quietly in the background.
 
 {% hint style="info" %}
 What is USDC?
