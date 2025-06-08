@@ -17,7 +17,7 @@ In addition to borrower interest, you also earn additional reward tokens when le
 | **Borrower interest** | Variable interest rate on your USDC                          | Borrowers on the lending market | Added to your balance in real time                                        |
 | **Reward tokens**     | Extra incentives (eg. WELL, MORPHO) offered by the platforms | The platforms themselves        | Mamo automatically converts every reward into more USDC and re-invests it |
 
-## Where your money gets to work
+## Where your money is allocated
 
 | Platform                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
