@@ -46,6 +46,6 @@ Security isn't a checkbox you tick once. It's an ongoing practice of improvement
 
 As Mamo evolves, we stay committed to:
 
-* **Regular audits** — Each new feature gets independently reviewed before going live
-* **Clear updates** — You'll always know what's changing and why
-* **Plain language** — Security explained in terms that actually make sense
+* **Regular audits:** Each new feature gets independently reviewed before going live
+* **Clear updates:** You'll always know what's changing and why
+* **Plain language:** Security explained in terms that actually make sense

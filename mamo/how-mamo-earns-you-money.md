@@ -21,8 +21,8 @@ In addition to borrower interest, you also earn additional reward tokens when le
 
 | Platform                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/image.png" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **–** [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) **(on** [**Base**](https://www.base.org/)**)**                |
-| <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **-** [**Moonwell Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc) **(on** [**Base**](https://www.base.org/)**)** |
+| <img src="../.gitbook/assets/image.png" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **—** [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) **(on** [**Base**](https://www.base.org/)**)**                |
+| <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **—** [**Moonwell Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc) **(on** [**Base**](https://www.base.org/)**)** |
 
 ### 1. Moonwell: Moonwell USDC Core Market
 
