@@ -19,6 +19,8 @@ In addition to borrower interest, you also earn additional reward tokens when le
 
 ## Where your money is allocated
 
+<figure><img src="../.gitbook/assets/Twitter post - 23.png" alt=""><figcaption></figcaption></figure>
+
 | Platform                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="../.gitbook/assets/moonwell-logo (1).svg" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **—** [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) **(on** [**Base**](https://www.base.org/)**)**    |
