@@ -46,7 +46,7 @@ While in these markets, your assets earn:
 
 Moonwell is built with **safety** and **simplicity** — a natural fit for Mamo’s steady approach. The platform has undergone multiple high-quality **independent audits**, so you can trust that **industry best practices** are followed and your money is in safe hands. Learn [**more**](https://docs.moonwell.fi/moonwell/protocol-information/security).
 
-### 2. Morpho: Moonwell Flagship USDC Vault / Moonwell cbBTC Frontier Vault
+### 2. Morpho: Moonwell USDC Flagship Vault / Moonwell cbBTC Frontier Vault
 
 When Mamo moves your assets into one of these vaults, it earns:
 
