@@ -11,7 +11,7 @@ What is USDC?
 
 What is cbBTC?
 
-cbBTC (Coinbase Bitcoin) is a tokenized version of Bitcoin. It's backed 1:1 by Bitcoin held in [Coinbase](https://www.coinbase.com) custody and stays fully redeemable at all times. cbBTC brings your Bitcoin into the [Base](https://www.base.org/) ecosystem, where Mamo can quietly put it to work. It's still your Bitcoin, just with more potential to grow over time.
+[**cbBTC**](https://www.coinbase.com/cbbtc) (Coinbase Bitcoin) is a tokenized version of Bitcoin. It's backed 1:1 by Bitcoin held in [**Coinbase**](https://www.coinbase.com) custody and stays fully redeemable at all times. cbBTC brings your Bitcoin into the [**Base**](https://www.base.org/) ecosystem, where Mamo can quietly put it to work. It's still your Bitcoin, just with more potential to grow over time.
 {% endhint %}
 
 In addition to borrower interest, you also earn additional reward tokens — **WELL tokens from Moonwell and MORPHO tokens from** **Morpho**.&#x20;
