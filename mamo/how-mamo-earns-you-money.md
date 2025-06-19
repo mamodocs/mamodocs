@@ -32,10 +32,10 @@ Mamo automatically converts all rewards back into your original asset — **USDC
 | <img src="../.gitbook/assets/moonwell-logo (1).svg" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **—** [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) **(**[**Base**](https://www.base.org/)**)**        |
 | <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **—** [**Moonwell Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc) **(**[**Base**](https://www.base.org/)**)** |
 
-| Mamo Bitcoin Account                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="../.gitbook/assets/moonwell-logo (1).svg" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **—** [**cbBTC Core Market**](https://moonwell.fi/markets/supply/base/cbbtc) **(**[**Base**](https://www.base.org/)**)**       |
-| <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **—** [**Moonwell Flagship USDC Vault**](https://moonwell.fi/vaults/deposit/base/mwcbbtc) **(**[**Base**](https://www.base.org/)**)** |
+| Mamo Bitcoin Account                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/moonwell-logo (1).svg" alt="" data-size="line"> [**Moonwell**](https://moonwell.fi/) **—** [**cbBTC Core Market**](https://moonwell.fi/markets/supply/base/cbbtc) **(**[**Base**](https://www.base.org/)**)**        |
+| <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> [**Morpho**](https://morpho.org/) **—** [**Moonwell cbBTC Frontier Vault**](https://moonwell.fi/vaults/deposit/base/mwcbbtc) **(**[**Base**](https://www.base.org/)**)** |
 
 ### 1. Moonwell: USDC Core Market / cbBTC Core Market
 
