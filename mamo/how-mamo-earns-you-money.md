@@ -20,10 +20,10 @@ More tokens might sound like more work. But with Mamo, it’s simple.&#x20;
 
 Mamo automatically converts all rewards back into your original asset — **USDC or cbBTC** — and reinvest them for you. No spreadsheets. No juggling different assets. No manual steps. You earn the rewards, Mamo handles the conversion, letting your balances steadily grow in the background. It's compounding for everyone, without the complexity.
 
-| Income stream         | What it is                                                   | Who pays it                     | How Mamo handles it                                                       |
-| --------------------- | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------------------- |
-| **Borrower interest** | Variable interest rate on your USDC or cbBTC                 | Borrowers on the lending market | Added to your balance in real time                                        |
-| **Reward tokens**     | Extra incentives (eg. WELL, MORPHO) offered by the platforms | The platforms themselves        | Mamo automatically converts every reward into more USDC and re-invests it |
+| Income stream         | What it is                                                   | Who pays it                     | How Mamo handles it                                                               |
+| --------------------- | ------------------------------------------------------------ | ------------------------------- | --------------------------------------------------------------------------------- |
+| **Borrower interest** | Variable interest rate on your USDC or cbBTC                 | Borrowers on the lending market | Added to your balance in real time                                                |
+| **Reward tokens**     | Extra incentives (eg. WELL, MORPHO) offered by the platforms | The platforms themselves        | Mamo automatically converts every reward into more USDC or cbBTC and reinvests it |
 
 ## How your money grows
 
