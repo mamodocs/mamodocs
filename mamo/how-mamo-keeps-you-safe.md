@@ -8,7 +8,7 @@ There are no confusing rules, just thoughtful security that works quietly in the
 
 ## 🛡️ Self-custody, no exceptions
 
-When you deposit USDC into Mamo, the funds don’t slide into a giant communal pool or a spooky black box. They flow straight into a **personal smart-contract vault** that belongs solely to your wallet. Picture a safe-deposit box at the bank where _only your key fits_.
+When you deposit into Mamo, the funds don’t slide into a giant communal pool or a spooky black box. They flow straight into a **personal smart-contract vault** that belongs solely to your wallet. Picture a safe-deposit box at the bank where _only your key fits_.
 
 * **Mamo can guide your money, but never grab it.** Every move — deposit, withdrawal, strategy switch needs _your_ signature.
 * **Always accessible:** Your money doesn't depend on Mamo being online. If Mamo ever goes down, you still have direct access to your funds using any standard wallet or block explorer interface.
