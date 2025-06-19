@@ -13,7 +13,6 @@ These contributors bring Mamo to life:
 * [**Luke Youngblood**](https://x.com/LukeYoungblood)
 * [**hishboy**](https://x.com/hishboy)
 * [**anajuliabit**](https://x.com/anajuliabit)
-* [**ncale.eth**](https://x.com/nick_brodeur)
 * [**Chrizy**](https://x.com/heyitschrizzle)
 * [**Calvoney**](https://x.com/calvoney)
 * [**BProfiro**](https://x.com/bprofiro)
