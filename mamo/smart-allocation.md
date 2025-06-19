@@ -2,14 +2,35 @@
 
 ## **Your money, always in the right place**
 
-Mamo watches two places where your USDC can earn: [**Moonwell**](https://moonwell.fi/)'s [**USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) and [**USDC Flagship Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc). Interest rates shift constantly based on supply and demand. Instead of you tracking these changes, Mamo handles the moves for you.
+Markets shift. Yields change. But with Mamo, your money is always where it can earn more — without you lifting a finger.
 
-When the Core Market offers better returns, your USDC stays there. When the Vault becomes more attractive, Mamo shifts your funds over. This happens automatically — no manual steps, no waiting for you to log in and make decisions.
+Mamo watches two trusted destinations where your **USDC** or **cbBTC** can grow:
 
-**You're in control, always.** You can see where your funds are earning and add, pause, or withdraw anytime. No lockups. No confusing rules. Just a system that works with you.
+* For USDC: The [**Moonwell USDC Core Market**](https://moonwell.fi/markets/supply/base/usdc) and the [**Morpho**](https://morpho.org/)-powered [**Moonwell USDC Flagship Vault**](https://moonwell.fi/vaults/deposit/base/mwusdc)
 
-Think of it as having a financial companion that never sleeps. While you're focused on everything else in your life, Mamo is quietly making sure your USDC is earning the best rate available. You've got enough on your plate — this is one less thing to manage.
+<figure><img src="../.gitbook/assets/Twitter post - 23.png" alt=""><figcaption><p>Mamo USDC Account</p></figcaption></figure>
 
-Your Mamo dashboard shows your account balance and earnings. The technical details of which market you're in right now? That's handled in the background. You'll grow smarter about how these markets work simply by watching your returns over time.
+* For cbBTC: The [**Moonwell** **cbBTC Core Market**](https://moonwell.fi/markets/supply/base/cbbtc) and the [**Morpho**](https://morpho.org/)-powered [**cbBTC Frontier Vault**](https://moonwell.fi/vaults/deposit/base/mwcbbtc)
 
-This isn't about chasing pumps or timing markets. It's about steady, smart growth. One habit at a time. Your money works harder so you don't have to.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Mamo Bitcoin Account</p></figcaption></figure>
+
+These rates move constantly based on supply and demand. Instead of tracking them yourself, Mamo shifts your funds to whichever option offers better returns — automatically.
+
+When the Core Market is more attractive, your money stays there. When the Vault earns more, Mamo moves it over. No logging in. No rebalancing. No missed opportunities.
+
+## You stay in control
+
+You can check in anytime, see exactly where your money is, and withdraw, pause, or deposit more whenever it suits you.\
+No lockups. No complicated terms. Just clarity.
+
+## One less thing to manage
+
+Think of Mamo as a quiet financial companion — one that never sleeps and always watches the markets on your behalf.
+
+While you're focused on life, Mamo makes sure your USDC or cbBTC is earning the best available yield across Moonwell and Morpho. It all happens behind the scenes, so you don’t have to micromanage a thing.
+
+## Learn as you grow
+
+Your Mamo dashboard shows your balances and earnings in real time.
+
+The more you use Mamo, the more you’ll naturally understand how smart allocation works. But even if you never check, your money keeps growing.

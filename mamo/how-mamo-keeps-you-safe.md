@@ -36,7 +36,7 @@ Money gets stressful when it hides behind jargon and blurry fees. We like to kee
 
 ## 🧠 Smart protection for your earnings
 
-Earning yield is great; keeping it is even better. Every time Mamo converts bonus tokens (WELL, MORPHO, etc) back into USDC, it considers three layers of safety:
+Earning yield is great; keeping it is even better. Every time Mamo converts bonus tokens (WELL, MORPHO, etc) back into USDC or cbBTC, it considers three layers of safety:
 
 1. [**CowSwap**](https://swap.cow.fi/) **batch auctions** prevent front-running and “sandwich” attacks&#x20;
 2. [**Chainlink**](https://chain.link/) **oracles** are independent price feeds that put an automatic brake on any swap the moment market prices deviate from what they should be
